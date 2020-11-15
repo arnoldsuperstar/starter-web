@@ -17,3 +17,7 @@ You can fork and contribute to this project.
 ## This is a final section
 
 Just to have something to add
+
+## Copyright
+
+2020 Arnaud
