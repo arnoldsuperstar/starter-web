@@ -12,7 +12,7 @@ This can be deployed anywhere.
 
 ## How to contribute
 
-You can fork and contribute to this project.
+You can fork and contribute to this project and then issue Pull Request.
 
 ## This is a final section
 
