@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Arnaud W a@pwr.ovh
 
 # THANKS
 
