@@ -21,4 +21,4 @@ Just to have something to add
 
 ## Copyright
 
-2020 Arnaud
+2020 Arnaud. All rights reserved
